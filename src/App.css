@@ -1,0 +1,102 @@
+/* PANEL BASE */
+
+.panel{
+position:absolute;
+
+background:#061018;
+border:1px solid #00eaff;
+
+color:#00eaff;
+font-family:monospace;
+
+padding:18px;
+
+box-shadow:0 0 25px #00eaff44;
+
+line-height:1.6;
+
+overflow:hidden;
+word-break:break-word;
+}
+
+/* PANEL TITLES */
+
+.panel h2{
+font-size:16px;
+margin-bottom:10px;
+}
+
+/* DATA ROW */
+
+.row{
+display:flex;
+justify-content:space-between;
+
+font-size:14px;
+margin-bottom:4px;
+
+white-space:nowrap;
+}
+
+/* LEFT PANEL */
+
+.intel-panel{
+
+left:15px;
+top:80px;
+
+width:300px;
+height:520px;
+
+}
+
+/* RIGHT PANEL */
+
+.sat-panel{
+
+right:15px;
+top:80px;
+
+width:300px;
+height:520px;
+
+}
+
+/* LIVE FEED */
+
+.feed-panel{
+
+bottom:20px;
+left:50%;
+
+transform:translateX(-50%);
+
+width:520px;
+height:170px;
+
+}
+
+/* STATUS BAR */
+
+.status-bar{
+
+position:absolute;
+
+top:10px;
+left:50%;
+
+transform:translateX(-50%);
+
+padding:10px 30px;
+
+background:#020412;
+border:1px solid #00eaff;
+
+color:#00eaff;
+
+font-family:monospace;
+font-size:14px;
+
+letter-spacing:1px;
+
+}
