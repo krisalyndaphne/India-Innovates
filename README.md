@@ -1,71 +1,128 @@
-# Getting Started with Create React App
+# 🇮🇳 Bharat-Chakshu
+### Sovereign Intelligence Engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bharat-Chakshu is an interactive **strategic intelligence dashboard** that visualizes how global geopolitical, economic, and logistical events impact India.
 
-## Available Scripts
+Built for the **India Innovates Hackathon**, the platform simulates a **command-center style intelligence system** using an interactive **3D Earth visualization**.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌍 Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Modern decision-making requires understanding complex global networks.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bharat-Chakshu visualizes how worldwide signals influence India through:
 
-### `npm test`
+- Global trade routes
+- Maritime choke points
+- Satellite monitoring
+- Border security
+- Supply chain disruptions
+- Economic indicators
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The interface combines **3D geospatial visualization with real-time intelligence panels**.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🌐 Interactive 3D Globe
+- Realistic Earth visualization using **Three.js**
+- Rotating globe with space environment
+- Smooth camera orbit controls
+- Global network visualization
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🔗 Global Data Network
+- Animated arcs between countries
+- Moving packets representing data flow
+- Visualization of international connections
 
-### `npm run eject`
+### 🛰 Satellite Monitoring
+- Orbiting satellites around Earth
+- Simulated orbital intelligence layer
+- Visual representation of space assets
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 📊 Intelligence Dashboard
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Trade Intelligence
+Displays India's economic exposure:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Exports
+- Imports
+- Trade deficit
+- Brent crude price
+- USD / INR exchange rate
+- Freight index
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Strategic Shipping Lanes
+Tracks critical maritime routes:
 
-## Learn More
+- Strait of Hormuz
+- Malacca Strait
+- Red Sea / Suez Canal
+- Cape Route
+- Bay of Bengal
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Border Threat Monitor
+Security monitoring around India:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- China (LAC)
+- Pakistan (LoC)
+- Myanmar border
+- Sri Lanka maritime zone
+- Andaman Sea
 
-### Code Splitting
+#### Commodity Watch
+Tracks important economic indicators:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Gold
+- Crude oil
+- LNG
+- Wheat futures
+- Copper
 
-### Analyzing the Bundle Size
+#### Orbital Assets
+Space intelligence layer:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- ISRO satellites
+- NAVIC constellation
+- Earth observation coverage
+- Tracked orbital objects
 
-### Making a Progressive Web App
+#### Seismic & Climate Monitor
+Natural events affecting logistics:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Earthquakes
+- Cyclones
+- Climate risks
+- Himalayan seismic activity
 
-### Advanced Configuration
+#### Air Domain
+Airspace monitoring:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Flights tracked
+- Military signal detection
+- Air corridor status
 
-### Deployment
+#### Live Intelligence Feed
+Real-time simulated event feed:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Naval patrol updates
+- Seismic activity alerts
+- Trade route disruptions
+- Geopolitical developments
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# India-Innovates" 
+## 🛠 Tech Stack
+
+- **React.js**
+- **Three.js**
+- **React Three Fiber**
+- **Drei**
+- **JavaScript**
+- **CSS**
+
+---
+
+## 📂 Project Structure
